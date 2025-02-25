@@ -16,6 +16,7 @@ Projekt PIIk to symulacja ruchu obiektu, która wykorzystuje różne metody nume
 
 ## Przykładowe wyniki
 Program generuje wyniki w formie tabeli, która zawiera czas, kąt (alfa) i prędkość kątową (omega) w kolejnych krokach czasowych.
+![App Screenshot](https://github.com/jaqp1/Program-obliczeniowy/blob/master/Zrzut%20ekranu%202025-02-25%20203326.png?raw=true)
 
 ## Wymagania
 - Java 8 lub nowsza.
