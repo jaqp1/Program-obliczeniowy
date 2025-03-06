@@ -1,4 +1,4 @@
-#Symulacja Ruchu
+# Symulacja Ruchu
 
 ## Opis projektu
 Projekt to symulacja ruchu obiektu, która wykorzystuje różne metody numeryczne do obliczania trajektorii. Program pozwala na wybór metody rzędu pierwszego, drugiego lub czwartego, a także na konfigurację parametrów początkowych takich jak czas końcowy, kąt początkowy i prędkość początkowa.
